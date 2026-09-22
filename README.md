@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![]([https://komarev.com/ghpvc/?username=nama-user-github-anda&color=0d1117&style=flat-square&label=VISITOR+COUNT](https://komarev.com/ghpvc/?username=nama-user-github-anda&color=0d1117&style=flat-square&label=VISITOR+COUNT))
+
 <!--
 **Geronfir/Geronfir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
