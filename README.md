@@ -27,6 +27,6 @@ Constraints force discipline — no desktop IDE means scripted, reproducible bui
 
 ### Contact
 
-[Email](mailto:gamergeronfir@gmail.com) · [Portfolio](https://geronfir.github.io) · [GitHub](https://github.com/Geronfir)
+[Email](mailto:whichrisy@gmail.com) · [Portfolio](https://geronfir.github.io) · [GitHub](https://github.com/Geronfir)
 
 <sub>Built from an Android phone. Yes, really.</sub>
