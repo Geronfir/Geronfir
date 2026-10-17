@@ -17,7 +17,7 @@ Constraints force discipline — no desktop IDE means scripted, reproducible bui
 
 **[lexiclock](https://github.com/Geronfir/Lexiclock)** — Android home-screen widget that spells the time in words. The time-to-words engine is pure Kotlin with **no Android imports**, so all **71 unit tests run on a plain JVM** in CI. Jetpack Glance, Material 3, offline-first, no background service.
 
-**[termux-workstation](https://github.com/Geronfir/termux-workstation)** — how I turned an Android phone into a real dev box: tmux sessions that survive app restarts, a Debian userland via proot, shell tooling that pushes build results to the phone, and CI as the build machine. Docs + sanitized configs.
+**termux-workstation** *(private)* — how I turned an Android phone into a real dev box: tmux sessions that survive app restarts, a Debian userland via proot, shell tooling that pushes build results to the phone, and CI as the build machine. Docs + sanitized configs.
 
 **[geronfir.github.io](https://geronfir.github.io)** — portfolio with case studies for the projects above.
 
